@@ -1,7 +1,7 @@
 // src/const.ts
-var ADDRESS = "YOUR_ADDRESS";
-var TOKEN = "YOUR_TOKEN";
-var WORKER_ADDRESS = "YOUR_WORKER_ADDRESS";
+var ADDRESS = "https://a.raorin.com";
+var TOKEN = "alist-4c7fb24a-0319-4c4e-a6e8-cb17d251c8247umMF7TzCLU9dbPxoB3ERYaoFQZgvAeOPkqrbCsaMs7S1A2s0Slkikxa5syQnVAi";
+var WORKER_ADDRESS = "https://alist-proxy.raorin.com";
 
 // src/verify.ts
 var verify = async (data, _sign) => {
